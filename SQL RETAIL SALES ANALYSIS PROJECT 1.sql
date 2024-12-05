@@ -21,7 +21,7 @@ CREATE TABLE retail_sales
   select * from retail_Sales;
 
 # DATA CLEANING :------
-# First let's check if there is null value is present in our table or not
+# First let's check if there are any null value present in our table or not
 			select * from retail_sales
 			where transactions_id is null
 			or sale_date is null
@@ -34,7 +34,7 @@ CREATE TABLE retail_sales
 			or price_per_unit is null
 			or cogs is null
 			or total_sale is null;
-   /* suppose if there is null value present on any column for any perticular records and by using DELETE statement we can clean our data   */
+   /* suppose if there is null value present on any column for any perticular records then by using DELETE statement we can clean our data   */
   
    DELETE FROM retail_sales
    where  
