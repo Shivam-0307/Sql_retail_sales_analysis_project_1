@@ -3,10 +3,10 @@
 ##### This project focuses on analyzing retail sales data using SQL. It includes data cleaning, exploration, and business insights generation to help understand key trends in sales performance, customer behavior, and product categories.
 
 ### Objectives
-##### Perform data cleaning to ensure accurate analysis.
-##### Conduct data exploration to summarize key metrics.
-##### Address business questions such as top-selling products, high-value customers, and sales trends over time.
-##### Use SQL queries for aggregations, filtering, and categorization to gain valuable insights.
+##### • Perform data cleaning to ensure accurate analysis.
+##### • Conduct data exploration to summarize key metrics.
+##### • Address business questions such as top-selling products, high-value customers, and sales trends over time.
+##### • Use SQL queries for aggregations, filtering, and categorization to gain valuable insights.
 
 ### Dataset Description
 ##### The dataset consists of retail transactions with the following attributes:
