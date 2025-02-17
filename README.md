@@ -10,17 +10,17 @@
 
 ### Dataset Description
 ##### The dataset consists of retail transactions with the following attributes:
-###### • transaction_id: Unique identifier for each sale
-###### • sales_date: Date of the transaction
-###### • sales_time: Time of purchase
-###### • customer_id: Unique ID for each customer
-###### • gender: Gender of the customer
-###### • age: Customer's age
-###### • category: Product category (e.g., Clothing, Beauty, Electronics)
-###### • quantity: Number of items purchased
-###### • price_per_unit: Price per item
-###### • cogs: Cost of goods sold
-###### • total_sales: Total sales value per transaction
+##### • transaction_id: Unique identifier for each sale
+##### • sales_date: Date of the transaction
+##### • sales_time: Time of purchase
+##### • customer_id: Unique ID for each customer
+##### • gender: Gender of the customer
+##### • age: Customer's age
+##### • category: Product category (e.g., Clothing, Beauty, Electronics)
+##### • quantity: Number of items purchased
+##### • price_per_unit: Price per item
+##### • cogs: Cost of goods sold
+##### • total_sales: Total sales value per transaction
 
 ### Key Analyses Performed
 ##### • Data Cleaning: Identified and removed NULL values to maintain data integrity.
