@@ -23,14 +23,13 @@
 ##### • total_sales: Total sales value per transaction
 
 ### Key Analyses Performed
-##### • Data Cleaning: Identified and removed NULL values to maintain data integrity.
-##### • Exploratory Data Analysis: Counted total sales, unique customers, and product categories.
-##### • Business Insights:
-
-##### • Identified sales trends over time.
-##### • Found top-selling categories and high-value customers.
-##### • Analyzed transactions based on different shifts (Morning, Afternoon, Evening). 
-##### • Calculated total revenue per category and customer segment.
+##### ◘ Data Cleaning: Identified and removed NULL values to maintain data integrity.
+##### ◘ Exploratory Data Analysis: Counted total sales, unique customers, and product categories.
+##### ◘ Business Insights:
+      ##### • Identified sales trends over time.
+      ##### • Found top-selling categories and high-value customers.
+      ##### • Analyzed transactions based on different shifts (Morning, Afternoon, Evening). 
+      ##### • Calculated total revenue per category and customer segment.
 
 ### SQL Queries Used
 ##### • Aggregation Queries: To calculate total sales, average age, and number of transactions per category.
