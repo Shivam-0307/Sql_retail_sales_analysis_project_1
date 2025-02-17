@@ -123,7 +123,7 @@ CREATE TABLE retail_sales
 	    from retail_sales
             group by category;
             
-/* QUE 9:- Wriet a sql query to create each shift and number of orders( example morning <=12, Afternoon Between 12 $ 17
+/* QUE 9:- Write a sql query to create each shift and number of orders( example morning <=12, Afternoon Between 12 $ 17
             and evening > 17) ? */
            
 	   with hourly_sale as 
